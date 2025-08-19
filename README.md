@@ -9,7 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  
+
 ## Overview
 
 ### Screenshot
@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://korno-no.github.io/blog-preview-card-main/)
 
 ## My process
 
